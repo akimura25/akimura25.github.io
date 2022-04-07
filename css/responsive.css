@@ -1,0 +1,91 @@
+@media (max-width:768px){
+  .list a{
+    padding:0 10px;
+  }
+
+  .profile{
+    text-align:center;
+  }
+
+  .profiles{
+    display:block;
+  }
+
+  .profile-img{
+    width:100%;
+  }
+
+  .profile-word{
+    width:100%;
+  }
+
+  .profile-discription p{
+    font-size:13px;
+  }
+
+  .skill{
+    text-align:center;
+  }
+
+  .myskill{
+    margin-top:0;
+  }
+
+  .skills{
+    width:50%;
+    height:100px;
+  }
+
+  .works h3,p{
+    text-align:center;
+  }
+
+  .collection{
+    display:block;
+    margin-top:0;
+  }
+
+  .collection a{
+    width:80%;
+    margin:0 auto;
+    margin-top:30px;
+  }
+
+  .contents h3,p{
+    text-align:center;
+  }
+
+  .table{
+    margin-top:0;
+  }
+
+  .contact{
+    height:480px;
+  }
+
+  table{
+    width:100%;
+    height:300px;
+  }
+
+  th{
+    text-align:center;
+  }
+
+  .td1{
+    margin-top: 18px;
+  }
+
+  .td2{
+    margin-top:28px;
+  }
+
+  input,textarea{
+    width:200px;
+  }
+
+  .table button{
+    margin-top:0;
+  }
+
+}
